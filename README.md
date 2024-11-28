@@ -66,3 +66,8 @@ https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0267697
 https://dl.acm.org/doi/10.1145/3614419.3644023
 
 https://link.springer.com/article/10.1007/s43039-024-00095-6#:~:text=The%20results%20show%20that%20four,content%20originality)%20determine%20follower%20satisfaction.
+
+https://www.storyly.io/post/how-to-calculate-engagement-rate
+https://corporatefinanceinstitute.com/resources/valuation/engagement-rate/
+https://www.socialinsider.io/blog/engagement-rate/
+
