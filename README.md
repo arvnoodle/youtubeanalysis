@@ -1,4 +1,4 @@
-data link: [https://drive.google.com/file/d/14zbvFGQdWlRtZEUeIsuswINw6KKcaoZ-/view?usp=sharing](https://drive.google.com/file/d/1L1xHVGThAwHqeYf27xcDXUChafiWfIo2/view?usp=sharing)
+data link: https://drive.google.com/file/d/1L1xHVGThAwHqeYf27xcDXUChafiWfIo2/view?usp=sharing
 
 this repo is about focusing on the time it takes for a video to trend, the impact of video duration, and the engagement rates achieved. The analysis is done w the dataset of trending yt videos, examining video and channel characteristics. 
 
