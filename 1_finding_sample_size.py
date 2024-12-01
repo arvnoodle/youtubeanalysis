@@ -38,7 +38,8 @@ print(results_df) # pinili ko nalang 150000 haha # considering ano nalang kaya n
 
 sample_size = 150000
 
-data_csv = df.sample(n=sample_size, random_state=42)
+#data_csv = df.sample(n=sample_size, random_state=42)
+data_csv = df.copy()
 print(data_csv.video_trending_country.value_counts())
 # i think the dataset is large enough naman is be ok even at random_sample, authenticity reasons and what not
 # but ito straitified 
