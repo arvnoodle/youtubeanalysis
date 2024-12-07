@@ -5,6 +5,7 @@ from scipy.stats import chisquare
 import matplotlib.pyplot as plt
 
 df = pd.read_csv('youtube_trending_videos_global.csv')
+df.to_parquet('post_processed_data_cleaned.parquet', index=False) 
 df = df.dropna(subset=['video_view_count', 'video_like_count', 'video_comment_count'])
 
 # checking ano sample size, laki smyado
@@ -94,3 +95,4 @@ data_cleaned['channel_custom_url'].fillna("Unknown", inplace=True)
 data_cleaned['channel_localized_description'].fillna("No localized description available", inplace=True)
 
 data_cleaned.to_csv('post_processed_data_cleaned.csv', index=False) # done
+# done
